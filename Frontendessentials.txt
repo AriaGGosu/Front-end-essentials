@@ -1,0 +1,40 @@
+Front-End
+
+Basic
+
+HTML
+CSS
+JAVASCRIPT
+
+
+
+CSS :   Responsive designe
+        Framework / bootstrap
+        Pre Procesadores / sass : variables , funciones, estructuras dinamicas
+
+
+JS :    typescript
+        ecma script 6
+        correr tareas / GULP : realizar tarea , disparar tareas
+        package manager / yarn / npm
+        Testing / jest / mocha 
+        Module bundler / webpack 
+        Framework / React / Angular / Vue
+        RESTful API React
+        
+
+Metodologias (good practics)
+
+CSS:    BEM
+JS:     Diseño de patrones GOF
+
+
+
+******    Extra     ******
+Diseño UI / UX
+Gestor de contenidos / Wordpress
+
+****** Digital Marketing ******
+Google Analytics
+Google Tag Manager
+
