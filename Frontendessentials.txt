@@ -32,7 +32,7 @@ JS:     Diseño de patrones GOF
 
 ******    Extra     ******
 Diseño UI / UX
-Gestor de contenidos / Wordpress
+Gestor de contenidos / Wordpress / Magento 
 
 ****** Digital Marketing ******
 Google Analytics
